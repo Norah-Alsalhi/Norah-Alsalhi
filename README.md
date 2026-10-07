@@ -1,4 +1,4 @@
-### AI Engineer | LLMs | Machine Learning | Voice AI | Backend Development
+### AI Engineer | LLMs | Machine Learning | Voice AI | Full-Stack Development
 
 ---
 
