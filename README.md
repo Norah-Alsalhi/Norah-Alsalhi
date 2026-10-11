@@ -1,4 +1,4 @@
-### AI Engineer | LLMs | Machine Learning | Voice AI | Full-Stack Development
+### AI Engineer | LLMs | Machine Learning | AI Engineer | Full-Stack Development
 
 ---
 
@@ -38,5 +38,5 @@ I build AI systems that make it to production — I train and fine-tune LLMs and
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norah-al-salhi-67575b270)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norah-alsalhi-67575b270/)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nourah99Alsalhi@gmail.com)
