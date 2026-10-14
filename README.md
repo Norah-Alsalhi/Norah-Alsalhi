@@ -1,4 +1,4 @@
-### AI Engineer | LLMs | Machine Learning | AI Engineer | Full-Stack Development
+### AI Engineer | LLMs | Machine Learning | Data Analysis | Full-Stack Development
 
 ---
 
