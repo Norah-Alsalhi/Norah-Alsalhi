@@ -4,8 +4,7 @@
 
 ## About Me
 
-I build AI systems that make it to production — I train and fine-tune LLMs and machine learning models, design real-time voice applications, and write the backends that run them. My work sits where modeling meets engineering: training and evaluating models, designing algorithms, analyzing data, and turning all of it into services that stay fast and reliable under real traffic. I care most about automation that actually removes work.
-
+Full-Stack Developer & AI Engineer passionate about building intelligent, scalable solutions. Combining AI, machine learning, and data-driven approaches with full-stack engineering to solve complex problems and turn innovative ideas into real-world applications.
 ---
 
 ## Skills
