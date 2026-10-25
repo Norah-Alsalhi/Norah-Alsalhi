@@ -3,7 +3,7 @@
 ---
 
 ## About Me
-
+---
 Full-Stack Developer & AI Engineer passionate about building intelligent, scalable solutions. Combining AI, machine learning, and data-driven approaches with full-stack engineering to solve complex problems and turn innovative ideas into real-world applications.
 ---
 
